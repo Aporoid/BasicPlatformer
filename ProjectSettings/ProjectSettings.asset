@@ -641,7 +641,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 844f76b9-53f5-4570-b1be-867b9e30e7ed
-  projectName: 
+  projectName: Basic platformer
   organizationId: aporoid
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
